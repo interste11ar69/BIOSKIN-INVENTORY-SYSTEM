@@ -60,7 +60,8 @@ We are developing a **Customized Inventory Management System (IMS)** that serves
 
 | Inventory List | Reporting |
 | :---: | :---: |
-| ![Inventory List](https://github.com/user-attachments/assets/9c649667-db19-49cf-a3c0-8e7a2a77808f) | ![Reporting](https://github.com/user-attachments/assets/ef02e992-26bc-4712-a538-936a88073f3b) |
+| ![Inventory List](https://github.com/user-attachments/assets/9c649667-db19-49cf-a3c0-8e7a2a77808f) | ![Analytics](<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/85144a96-33ea-4a5f-b67b-48c5342d74d8" />
+) |
 
 ---
 
