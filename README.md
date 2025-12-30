@@ -1,6 +1,3 @@
-Based on the Project Proposal document you provided, here is a professional, comprehensive `README.md` file tailored for your GitHub repository.
-
-I have structured it to highlight the **Problem-Solution** aspect, which is critical for a Design and Development project.
 
 ***
 
@@ -60,11 +57,15 @@ We are developing a **Customized Inventory Management System (IMS)** that serves
 
 | Login Screen | Dashboard |
 | :---: | :---: |
-| ![Login](link-to-image) | ![Dashboard](link-to-image) |
+| ![Login](<img width="865" height="619" alt="image" src="https://github.com/user-attachments/assets/3259475b-6f54-4da3-9a54-e9f7587ea5b1" />
+) | ![Dashboard](<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/9738c219-91fb-435c-84e7-ff1502cd3c73" />
+) |
 
 | Inventory List | Reporting |
 | :---: | :---: |
-| ![Inventory](link-to-image) | ![Reporting](link-to-image) |
+| ![Inventory](<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/9c649667-db19-49cf-a3c0-8e7a2a77808f" />
+) | ![Reporting](<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/ef02e992-26bc-4712-a538-936a88073f3b" />
+) |
 
 ---
 
